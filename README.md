@@ -1,6 +1,6 @@
 # No-Face Terminal Game
 
-A classic Snake-style game built from scratch in C, themed around No-Face
+A classic Snake-style game built from scratch in C, themed around No Face
 from *Spirited Away*. Runs in the terminal. Currently in development.
 
 ## About
@@ -13,7 +13,7 @@ logic that drives movement.
 ## What it does (so far)
 
 - Renders a bordered game board in the terminal
-- No-Face's head is steerable in real time with the WASD keys
+- No Face's head is steerable in real time with the WASD keys
 - Runs on a continuous game loop with adjustable speed
 
 ## In progress
